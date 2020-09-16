@@ -62,10 +62,10 @@ div {
     text-align: left;
 }
 
-footer > p {
+footer p {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
-    padding-left: none;
-    padding-top: none;
+    padding-left: 0px;
+    padding-top: 0px;
 }
